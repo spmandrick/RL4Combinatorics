@@ -1,5 +1,5 @@
 '''
-In AZ Wagner's paper 'Constructions in combinatorics via nerual networks,' he uses 
+In AZ Wagner's paper 'Constructions in combinatorics via neural networks,' he uses 
 the cross-entropy RL method to find a 19-vertex counterexample to the following:
 
 Conjecture 2.1: Let G be a connected graph on n >= 3 vertices, with largest 
