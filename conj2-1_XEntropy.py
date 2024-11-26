@@ -17,6 +17,7 @@ actions when the algorithm appears to be stuck in a local minima.
 This strategy is quite powerful, and thus I have utilized it here with a slightly
 different approach.
 '''
+
 from collections import namedtuple  # Helps us write cleaner code
 from tensorboardX import SummaryWriter     # To help visualize our runs
 import matplotlib.pyplot as plt     # For drawing our graphs
